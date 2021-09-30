@@ -13,6 +13,20 @@ describe('Test FlightAction Component', () => {
       index={0}
       selected={false}
       handleSelect={mockCallBack}
+      isMobile= {false}
+  />).toJSON();
+  
+    expect(tree).toMatchSnapshot();
+  });
+
+  it('Test click event for Mobile', () => {
+    const mockCallBack = jest.fn();
+    const tree = renderer.create(<FlightAction
+      flightNo="1"
+      index={0}
+      selected={false}
+      handleSelect={mockCallBack}
+      isMobile= {true}
   />).toJSON();
   
     expect(tree).toMatchSnapshot();

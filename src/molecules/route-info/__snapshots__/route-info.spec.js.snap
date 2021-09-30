@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`renders Rouite Information 1`] = `
+exports[`Test Route Information renders Route Information for desktop 1`] = `
 <li
   className="route-info__container"
   id={1}
@@ -22,6 +22,7 @@ exports[`renders Rouite Information 1`] = `
       08:30
     </div>
     <div
+      className="leg-information__leg-info-time"
       tabIndex="0"
     >
       12Dec2021
@@ -87,6 +88,7 @@ exports[`renders Rouite Information 1`] = `
       11:30
     </div>
     <div
+      className="leg-information__leg-info-time"
       tabIndex="0"
     >
       12Dec2021
@@ -111,7 +113,7 @@ exports[`renders Rouite Information 1`] = `
 </li>
 `;
 
-exports[`renders Route Information 1`] = `
+exports[`Test Route Information renders Route Information for mobile 1`] = `
 <li
   className="route-info__container"
   id={1}
@@ -133,6 +135,7 @@ exports[`renders Route Information 1`] = `
       08:30
     </div>
     <div
+      className="leg-information__leg-info-time"
       tabIndex="0"
     >
       12Dec2021
@@ -198,6 +201,7 @@ exports[`renders Route Information 1`] = `
       11:30
     </div>
     <div
+      className="leg-information__leg-info-time"
       tabIndex="0"
     >
       12Dec2021

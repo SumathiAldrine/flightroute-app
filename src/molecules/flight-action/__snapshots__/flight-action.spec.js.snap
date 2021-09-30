@@ -18,3 +18,22 @@ exports[`Test FlightAction Component Test click event 1`] = `
   </button>
 </div>
 `;
+
+exports[`Test FlightAction Component Test click event for Mobile 1`] = `
+<div
+  className="flight-action__select-mobile"
+>
+  <div
+    className="flightNo-mobile"
+    tabIndex="0"
+  >
+    1
+  </div>
+  <button
+    className="cta"
+    onClick={[MockFunction]}
+  >
+    Select
+  </button>
+</div>
+`;
