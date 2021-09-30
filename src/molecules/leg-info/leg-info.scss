@@ -1,0 +1,15 @@
+.leg-information {
+
+    &__leg-info {
+        flex: 1;
+    }
+
+    &__leg-info-name {
+        font-size: 1.2rem;
+        line-height: 2.7rem;
+    }
+
+    &__leg-info-time {
+        font-size: 1.5rem;
+    }
+}

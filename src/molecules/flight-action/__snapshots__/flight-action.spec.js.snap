@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test FlightAction Component Test click event 1`] = `
+<div
+  className="flight-action__select"
+>
+  <div
+    className="flightNo"
+    tabIndex="0"
+  >
+    1
+  </div>
+  <button
+    className="cta"
+    onClick={[MockFunction]}
+  >
+    Select
+  </button>
+</div>
+`;

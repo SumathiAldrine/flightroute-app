@@ -1,0 +1,48 @@
+.airline-destination {
+    &__header {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 250px;
+      background-image: url(../../images/flights.jpeg);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  
+    &__header-wrap {
+      display: flex;
+      flex-direction: column;
+      color: #FFF;
+    }
+  
+    &__route-information--list {
+      list-style: none;
+    }
+     
+    &__destination-button {
+      font-size: 1.2rem;
+      line-height: 19px;
+      font-weight: 700;
+      margin: 10px;
+      background: #9d9597;
+      border: 0;
+      color: #fff;
+      padding: 10px 10px;
+      border-radius: 3px;
+  }
+  
+  &__button-wrap {
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+    align-items: center;
+  }
+  
+  &__flight-icon {
+    color: "green";
+    font-size: "1.5rem";
+  }
+  }
+  

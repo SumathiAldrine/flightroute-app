@@ -1,0 +1,26 @@
+.image-button {
+    &__destination-button {
+      font-size: 1.2rem;
+      line-height: 19px;
+      font-weight: 700;
+      margin: 10px;
+      background: #9d9597;
+      border: 0;
+      color: #fff;
+      padding: 10px 10px;
+      border-radius: 3px;
+  }
+  
+  &__button-wrap {
+    display: flex;
+    flex-direction: column;
+    color: #FFF;
+    align-items: center;
+  }
+  
+  &__flight-icon {
+    color: "green";
+    font-size: "1.5rem";
+  }
+  }
+  

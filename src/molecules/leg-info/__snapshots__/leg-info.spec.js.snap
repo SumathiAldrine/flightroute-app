@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Render  1`] = `
+<div
+  className="leg-information__leg-info"
+>
+  <div
+    className="leg-information__leg-info-name"
+    tabIndex="0"
+  />
+  <div
+    className="leg-information__leg-info-time"
+    tabIndex="0"
+  />
+  <div
+    tabIndex="0"
+  />
+</div>
+`;
+
+exports[`Render Leg Information 1`] = `
+<div
+  className="leg-information__leg-info"
+>
+  <div
+    className="leg-information__leg-info-name"
+    tabIndex="0"
+  />
+  <div
+    className="leg-information__leg-info-time"
+    tabIndex="0"
+  />
+  <div
+    tabIndex="0"
+  />
+</div>
+`;
+
+exports[`renders learn react link 1`] = `
+<div
+  className="leg-information__leg-info"
+>
+  <div
+    className="leg-information__leg-info-name"
+    tabIndex="0"
+  />
+  <div
+    className="leg-information__leg-info-time"
+    tabIndex="0"
+  />
+  <div
+    tabIndex="0"
+  />
+</div>
+`;

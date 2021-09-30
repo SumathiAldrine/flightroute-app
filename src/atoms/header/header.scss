@@ -1,0 +1,19 @@
+.flight-header {
+    &__header {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 250px;
+      background-image: url(../../images/flights.jpeg);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      background-position: center;
+    }
+  
+    &__header-wrap {
+      display: flex;
+      flex-direction: column;
+      color: #FFF;
+    }
+}
