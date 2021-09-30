@@ -1,4 +1,4 @@
-import React, {PureComponent, Fragment, useState} from 'react';
+import React, {Fragment, useState} from 'react';
 
 import {FlightRouteInfo} from './test.data';
 import RouteInformation from '../../molecules/route-info';

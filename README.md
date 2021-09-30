@@ -3,17 +3,28 @@
 This project was created to display the top 10 interesting flight routes from Dubai(DXB)
 ## Install Dependencies
 
-npm install react --save(17.0.2 or above)
-npm install react-dom --save(17.0.2 or above)
-npm install react-scripts@latest
-npm install node-sass —save
-npm i --save prop-types
-npm install react-icons --save
-npm install classnames
-npm i create-react-hook —save
-npm i react-hook-use-state
-npm i --save-dev enzyme enzyme-adapter-react-16
+### 'npm install react --save(17.0.2 or above)'
 
+### 'npm install react-dom --save(17.0.2 or above)'
+
+### 'npm install react-scripts@latest'
+
+### 'npm install node-sass —save'
+
+### 'npm i --save prop-types'
+
+### 'npm install react-icons --save'
+
+### 'npm install classnames'
+
+### 'npm i create-react-hook —save'
+
+### 'npm i react-hook-use-state'
+
+### 'npm i --save-dev enzyme enzyme-adapter-react-16'
+
+
+## Start application
 
 ### `npm start`
 
